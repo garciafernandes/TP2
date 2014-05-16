@@ -69,7 +69,6 @@
 
 #news
 {	
-	
 	float: left;
 	width: 40%;
 	padding: 20px;
@@ -91,6 +90,13 @@
 	color: red;
 }
 
+#news a {
+	color:grey;
+}
+
+h1, h2, h3 {
+	font-variant:small-caps;
+}
 #footer
 {
 	clear: both;
