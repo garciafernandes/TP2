@@ -69,6 +69,7 @@
 
 #news
 {	
+	
 	float: left;
 	width: 40%;
 	padding: 20px;
@@ -83,6 +84,11 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+}
+
+#news h2 {
+	text-align: center;
+	color: red;
 }
 
 #footer
