@@ -6,7 +6,7 @@
 
 #header
 {
-	background: #ccc;
+	background: oldlace;
 	padding: 20px;
 }
 
@@ -62,7 +62,7 @@
 
 #edito h2
 {
-	color: #000;
+	color: salmon;
 	font-size: 160%;
 	margin: 0 0 .5em;
 }
@@ -96,6 +96,7 @@
 
 h1, h2, h3 {
 	font-variant:small-caps;
+	color: salmon;
 }
 #footer
 {
@@ -104,4 +105,8 @@ h1, h2, h3 {
 	text-align: right;
 	padding: 20px;
 	height: 1%;
+}
+
+p {
+	font-family:Verdana, sans-serif;
 }
